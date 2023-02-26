@@ -1,7 +1,6 @@
 # Welcome to my Odin Project portfolio!
 
-[The Odin Project image](C:\Users\pc\Documents\Programming\The Odin project\TheOdinProject\the-odin-project-logo-skill-finder-partners-page.png)
-
+<a href="#"><img width="100%" height="auto" src="https://www.theodinproject.com/assets/og-logo-022832d4cefeec1d5266237be260192f5980f9bcbf1c9ca151b358f0ce1fd2df.png" height="175px"/></a>
 
 [The Odin Project](https://www.theodinproject.com/) is an open-source curriculum for learning full-stack web development. 
 
