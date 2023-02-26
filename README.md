@@ -1,6 +1,6 @@
 # Welcome to my Odin Project portfolio!
 
-[](https://raw.githubusercontent.com/TheOdinProject/.github/820bf855812104032715e2ed07b9dcac3e9b8366/profile/odin_background.svg)
+[The Odin Project image](C:\Users\pc\Documents\Programming\The Odin project\TheOdinProject\the-odin-project-logo-skill-finder-partners-page.png)
 
 
 [The Odin Project](https://www.theodinproject.com/) is an open-source curriculum for learning full-stack web development. 
