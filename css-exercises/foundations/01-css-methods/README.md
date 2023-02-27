@@ -10,12 +10,13 @@ p: a green background, white text, and a font size of 18px
 button: an orange background and a font size of 18px
 
 # Desired Outcome
-
+![desired outcome](./desired-outcome.jpeg)
 
 
 ### Self Check
 
-Used the external methods of adding CSS to an HTML file.
-The div element have CSS added via the external method.
-The p element have CSS added via the internal method.
-The button element have CSS added via the inline method?
+I did use all three methods of adding CSS to an HTML file.
+I did  properly link the external CSS file in the HTML file.
+I did the div element have CSS added via the external method.
+I did  the p element have CSS added via the internal method.
+I did  the button element have CSS added via the inline method.
