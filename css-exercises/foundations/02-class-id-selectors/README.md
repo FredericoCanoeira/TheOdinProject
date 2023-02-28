@@ -18,7 +18,7 @@ Part of your task is to add a font to some of these items. Your browser's font's
 ```
 
 ## Desired Outcome
-![desired-outcome](.\desired-outcome.jpeg)
+![desired-outcome](./desired-outcome.jpeg)
 
 ## Self Check
 - The odd numbered p elements share a class.
