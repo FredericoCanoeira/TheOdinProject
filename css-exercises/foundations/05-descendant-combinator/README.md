@@ -12,7 +12,7 @@ The properties you need to add are:
 
 ## Desired Outcome
 
-![Desired Outcome](./desired Outcome.jpeg)
+![Desired Outcome](./desired%20Outcome.jpeg)
 
 ## Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
